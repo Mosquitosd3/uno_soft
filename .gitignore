@@ -1,0 +1,65 @@
+# Java скомпилированные файлы
+*.class
+
+# Лог файлы
+*.log
+
+# Каталог с настройками IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Настройки MacOS
+.DS_Store
+
+# Каталог с настройками Eclipse
+.project
+.classpath
+.settings/
+
+# Каталог сборки Maven
+target/
+
+# Каталог сборки Gradle
+build/
+
+# Файлы Gradle кэша и настройки
+.gradle/
+!gradle-wrapper.jar
+
+# Каталог кэша
+out/
+bin/
+
+# Файлы конфигурации
+*.properties
+*.yml
+*.yaml
+
+# Файлы тестирования и отчетов
+test-output/
+surefire-reports/
+
+# Локальные файлы ОС
+Thumbs.db
+*.swp
+
+# Пакетные менеджеры
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Настройки IntelliJ IDEA
+.idea/
+*.iml
+
+# JAR и другие бинарные файлы
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
